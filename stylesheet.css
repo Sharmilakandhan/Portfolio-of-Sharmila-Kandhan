@@ -696,7 +696,7 @@ svg {
     margin-bottom: 80px;
 } */
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .container {
         margin-inline: 1rem;
     }
@@ -1115,6 +1115,7 @@ svg {
 .contact__container{
     margin-bottom: 50px;
 }
+
 
 
 }
